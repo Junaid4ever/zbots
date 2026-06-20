@@ -1,0 +1,6 @@
+playwright
+faker
+nest-asyncio
+python-socketio
+indian-names
+requests
